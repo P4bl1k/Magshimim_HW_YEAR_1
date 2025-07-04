@@ -1,0 +1,11 @@
+Anti-virus started.
+Scanning folder: 
+C:\Magshimim_EX\HW8\CheckFiles
+Using signature: 
+C:\Magshimim_EX\HW8\KittenVirusSign
+Scan type selected:
+Normal Scan
+Scan results:
+C:\Magshimim_EX\HW8\CheckFiles\AntiVirusLog.txt - Clean
+C:\Magshimim_EX\HW8\CheckFiles\kitten_frog.jpg - Infected!
+C:\Magshimim_EX\HW8\CheckFiles\kitten_run.jpg - Clean

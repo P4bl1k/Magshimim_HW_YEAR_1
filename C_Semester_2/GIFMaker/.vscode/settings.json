@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "raygui.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "raylib.h": "c",
+        "linkedlist.h": "c",
+        "view.h": "c"
+    }
+}
